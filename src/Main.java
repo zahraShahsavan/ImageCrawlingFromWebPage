@@ -51,7 +51,7 @@ public class Main {
     	System.out.println("if you want to crawl  webpage enter url");
     	Scanner sc=new Scanner(System.in);
    
-    	boolean bool=true;
+		boolean bool=true;
     	while(bool) {
         String url = "";
         url=sc.nextLine();
